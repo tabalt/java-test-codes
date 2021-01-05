@@ -1,4 +1,4 @@
-package grammar;
+package language.usage;
 
 public class HelloWorld {
     public static void main(String[] args) {
