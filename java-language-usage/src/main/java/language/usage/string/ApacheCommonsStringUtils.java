@@ -6,5 +6,6 @@ public class ApacheCommonsStringUtils {
 
     public static void main(String[] args) {
         System.out.println(StringUtils.capitalize("hello World, ni hao a"));
+        System.out.println(StringUtils.isBlank("   "));
     }
 }
